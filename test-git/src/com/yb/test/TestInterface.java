@@ -2,4 +2,5 @@ package com.yb.test;
 
 public interface TestInterface {
 	void m();
+	void m2();
 }
